@@ -1,0 +1,7 @@
+{
+	"agents": ["codex", "opencode", "cursor", "claude_code"],
+	"herd_mcp": false,
+	"mcp": true,
+	"nightwatch_mcp": false,
+	"sail": false
+}
